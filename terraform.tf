@@ -4,3 +4,7 @@ provider {
 }
 cjjckn
 vkbka
+resource "azure
+acjnkjan
+cljnakjca
+cjbnkna"
